@@ -1,16 +1,8 @@
 # native_feature
 
-A new Flutter project.
+A Flutter project example showing how to access the native feature of mobile device(Request for camera and location permission).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To try this project on your local environment, you need to download the dependencies by using commend "flutter pub get".
+Google Map api is included in this app, if you want to able to use map function, replace all "YOUR API KEY HERE" in this project to your valid Google map api key.
